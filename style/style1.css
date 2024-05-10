@@ -244,7 +244,7 @@ li {
     height: 50%;
     background: #cf8008;
     border-radius: 100%;
-    background-image: url('https://seeklogo.com/images/Q/quora-logo-9BC9099190-seeklogo.com.png');
+   
     background-position: center;
     background-size: cover;
 }
@@ -326,7 +326,8 @@ h2 {
     width: 60%;
     background: rgba(173, 141, 141, 0.493);
     padding: 10px 10px 10px 40px;
-
+    border: 2px solid rgba(204, 224, 221, 0.733);
+    margin-left: 20%;
 
 }
 
@@ -342,7 +343,7 @@ h2 {
   border-radius: 5px;
   font-size: 20px; 
   cursor: pointer;
-  margin-left: 40px;
+  margin-left: 170px;
   background-color: rgba(118, 97, 158, 0.568);
   
 }
@@ -352,18 +353,53 @@ h2 {
     width: 60%;
     padding: 10px 10px 10px 40px;
     background: rgba(173, 141, 141, 0.493);
-
+    margin-left: 20%;
+    border: 2px solid rgba(204, 224, 221, 0.733);
 
 }
 
+.section-1 .sec-content-1 .box-2 .k-m{
+    height: 20px;
+    width: 100px;
+    /* display: inline-block; */
+    padding: 10px 20px ;
+ 
+    color: #fff;
+    text-decoration: none; 
+   border: none; 
+   border-radius: 5px;
+   font-size: 20px; 
+   cursor: pointer;
+   margin-left: 170px;
+   background-color: rgba(118, 97, 158, 0.568);
+   
+ }
 .section-1 .sec-content-1 .box-3 {
     height: 50vh;
     width: 60%;
     padding: 10px 10px 10px 40px;
     background: rgba(173, 141, 141, 0.493);
-
+    margin-left: 20%;
+    border: 2px solid rgba(204, 224, 221, 0.733);
 
 }
+
+.section-1 .sec-content-1 .box-3 .k-m{
+    height: 20px;
+    width: 100px;
+    /* display: inline-block; */
+    padding: 10px 20px ;
+ 
+    color: #fff;
+    text-decoration: none; 
+   border: none; 
+   border-radius: 5px;
+   font-size: 20px; 
+   cursor: pointer;
+   margin-left: 170px;
+   background-color: rgba(118, 97, 158, 0.568);
+   
+ }
 
 .section-1 .sec-content-2 {
     margin-left: 182px;
@@ -403,25 +439,78 @@ h2 {
     width: 60%;
     padding: 10px 10px 10px 40px;
     background: rgba(173, 141, 141, 0.493);
-
+    margin-left: 20%;
+    border: 2px solid rgba(204, 224, 221, 0.733);
 }
+
+.section-1 .sec-content-2 .box-4 .k-m{
+    height: 20px;
+    width: 100px;
+    /* display: inline-block; */
+    padding: 10px 20px ;
+ 
+    color: #fff;
+    text-decoration: none; 
+   border: none; 
+   border-radius: 5px;
+   font-size: 20px; 
+   cursor: pointer;
+   margin-left: 170px;
+   background-color: rgba(118, 97, 158, 0.568);
+   
+ }
 
 .section-1 .sec-content-2 .box-5 {
     height: 50vh;
     width: 60%;
     padding: 10px 10px 10px 40px;
     background: rgba(173, 141, 141, 0.493);
-
+    margin-left: 20%;
+    border: 2px solid rgba(204, 224, 221, 0.733);
 }
+
+.section-1 .sec-content-2 .box-5 .k-m{
+    height: 20px;
+    width: 100px;
+    /* display: inline-block; */
+    padding: 10px 20px ;
+ 
+    color: #fff;
+    text-decoration: none; 
+   border: none; 
+   border-radius: 5px;
+   font-size: 20px; 
+   cursor: pointer;
+   margin-left: 170px;
+   background-color: rgba(118, 97, 158, 0.568);
+   
+ }
 
 .section-1 .sec-content-2 .box-6 {
     height: 50vh;
     width: 60%;
     padding: 10px 10px 10px 40px;
     background: rgba(173, 141, 141, 0.493);
-
-
+    margin-left: 20%;
+    border: 2px solid rgba(204, 224, 221, 0.733);
 }
+
+.section-1 .sec-content-2 .box-6 .k-m{
+    height: 20px;
+    width: 100px;
+    /* display: inline-block; */
+    padding: 10px 20px ;
+ 
+    color: #fff;
+    text-decoration: none; 
+   border: none; 
+   border-radius: 5px;
+   font-size: 20px; 
+   cursor: pointer;
+   margin-left: 170px;
+   background-color: rgba(118, 97, 158, 0.568);
+   
+ }
 
 .main .section-2 {
 
@@ -457,4 +546,69 @@ h2 {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.main .section-4{
+    height: 100vh;
+    width: 100%;
+    /* background: #8f8276f5; */
+}
+
+.main .section-4  .playback-book{
+    height: 50vh;
+    width: 100%;
+    background: whitesmoke;
+    color: #000;
+}
+
+.main .section-4  .playback-book h3{
+    font-size: 2.7rem;
+
+    font-weight: 500;
+    text-align: center;
+
+}
+
+.main .section-4  .playback-book p{
+
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+
+
+.main .section-4 .footer{
+    height: 50vh;
+    width: 100%;
+}
+
+.footer .col-10{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1.5rem;
+}
+
+.footer .col-10 span{
+    color: #fff;
+    font-size: 1rem;
+}
+
+.footer .col-10 .social-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.footer .col-10 .social-2 i{
+    font-size: 2rem;
+    color: #fff;
+    margin-left: 0.5rem;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.footer .col-10 .social-2 i:hover{
+    color: #ff6600;
 }
